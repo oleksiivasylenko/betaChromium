@@ -1,0 +1,5 @@
+*.dllLogs/package-lock.jsonPublishProfiles/
+packages
+.vs/
+bin
+obj
